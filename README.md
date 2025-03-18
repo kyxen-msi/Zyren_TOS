@@ -44,5 +44,5 @@
 ------
 
 <h3 align="center">
-  If you have any questions or concerns about these terms, please contact us at [Insert Contact Information].
+  If you have any questions or concerns about these terms, please contact us at [Zyren HQ](https://discord.gg/bv8kU5aJaz).
 </h3>
